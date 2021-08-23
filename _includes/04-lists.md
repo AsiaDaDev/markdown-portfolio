@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+A list of projects to do as a developer:
+* JavaScript Project
+    - React Project
+    - Angular Project
+* Python Project
+    - Flask Project
+    - Django Project
+* Java Project 
