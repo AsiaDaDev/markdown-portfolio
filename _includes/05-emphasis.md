@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some of the things that I do pretty well include: panic, **program**, drink coffee, **design applications**, play videogames (_if I finish them_), cook, and make a good cocktail. 
